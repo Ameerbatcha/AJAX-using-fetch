@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ameer",
+        "department": "CSE",
+        "year": "first",
+        "college": "velammal"
+    },
+    {
+        "name": "Azeem",
+        "department": "MECH",
+        "year": "second",
+        "college": "PSNA"
+    },
+    {
+        "name": "Jamal",
+        "department": "IT",
+        "year": "third",
+        "college": "Kalasalingam"
+    },
+    {
+        "name": "Badarnisha",
+        "department": "BSC",
+        "year": "final",
+        "college": "Yadhava"
+    }
+]
